@@ -1,0 +1,10 @@
+{
+    "students":[
+        {
+            "fullName": "Gagi Shmagi",
+            "subject": "Firebase RealTime Database",
+            "class": "Computer Science",
+            "roll": "Teacher"
+        }
+    ]
+}
